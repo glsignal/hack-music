@@ -13,6 +13,10 @@ Music for when you're in that zone
 - Electro Swing
 - Terrible Pop music
 
+## Albums/Scores/Soundtracks
+
+- Tron: Legacy
+
 ## Notable Tracks
 
 ## Spotify Lists

@@ -2,6 +2,8 @@
 
 Music for when you're in that zone
 
+PLEASE Fork, change, add, remove. This will only get better with more contributions.
+
 ## Artists
 
 - Bonobo

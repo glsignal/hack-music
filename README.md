@@ -9,6 +9,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 - Bonobo
 - Tycho
 - The Album Leaf
+- [[datasette.net] mixes](http://datassette.net/?l=mixes)
 
 ## Genres
 

@@ -18,6 +18,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 ## Albums/Scores/Soundtracks
 
 - Tron: Legacy
+- The Cat Empire - Live On Earth
 
 ## Notable Tracks
 

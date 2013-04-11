@@ -9,6 +9,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 - Bonobo
 - Tycho
 - The Album Leaf
+- Mogwai
 - [[datasette.net] mixes](http://datassette.net/?l=mixes)
 
 ## Genres
@@ -26,6 +27,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 ## Spotify Lists
 
 - Andy Wilkinson's [MOTHERFUCKING EPIC](http://open.spotify.com/user/1231095985/playlist/4OtarRqf43JIRFAosBw8PE) (this seeds a great radio station)
+- [Electronica (smooth music to work, study and get inspired)](http://open.spotify.com/user/luckyshot/playlist/7gYXd3HbmhN3SUCahqKuTj) - also seeds a great radio station
 
 ## Honourable Mentions
 

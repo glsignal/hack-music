@@ -13,6 +13,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 - [[datasette.net] mixes](http://datassette.net/?l=mixes)
 - [Whiteheart.](https://soundcloud.com/whit3h34rt)
 - [Anamanaguchi](http://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL)
+- [Parov Stelar](https://play.spotify.com/artist/65EXuYHVoehCKqp0kOS6px)
 
 ## Genres
 

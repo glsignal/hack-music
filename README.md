@@ -6,15 +6,14 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 
 ## Artists
 
-- Bonobo
-- Tycho
-- The Album Leaf
-- Mogwai
+- Bonobo [![Spotify](img/spotify.png)](http://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/bonobo)
+- Tycho [![Spotify](img/spotify.png)](http://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/tycho)
+- The Album Leaf [![Spotify](img/spotify.png)](http://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/the-album-leaf)
+- Mogwai [![Spotify](img/spotify.png)](http://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG)
 - [[datasette.net] mixes](http://datassette.net/?l=mixes)
-- [Whiteheart.](https://soundcloud.com/whit3h34rt)
-- [Anamanaguchi](http://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL)
-- [Parov Stelar](https://play.spotify.com/artist/65EXuYHVoehCKqp0kOS6px)
-
+- Whiteheart. [![Soundcloud](img/soundcloud.png)](https://soundcloud.com/whit3h34rt)
+- Anamanaguchi [![Spotify](img/spotify.png)](http://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/anamanaguchi)
+- Parov Stelar [![Spotify](img/spotify.png)](https://play.spotify.com/artist/65EXuYHVoehCKqp0kOS6px)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/parov_stelar)
 ## Genres
 
 - Electro Swing
@@ -22,18 +21,18 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 
 ## Albums/Scores/Soundtracks
 
-- Tron: Legacy
-- The Cat Empire - Live On Earth
+- Tron: Legacy [![Spotify](img/spotify.png)](http://open.spotify.com/album/6RYNPiOPrLCc7BfbyhCDzx)
+- The Cat Empire - Live On Earth [![Spotify](img/spotify.png)](http://open.spotify.com/album/4aRKQGfYxfJQytCNjvFSUi)
 
 ## Notable Tracks
 
-- [1988 - Original Mix](http://open.spotify.com/track/68YRdMv167zby0ceobW8em)
+- 1988 - Original Mix [![Spotify](img/spotify.png)](http://open.spotify.com/track/68YRdMv167zby0ceobW8em)
 
 ## Spotify Lists
 
-- Andy Wilkinson's [MOTHERFUCKING EPIC](http://open.spotify.com/user/1231095985/playlist/4OtarRqf43JIRFAosBw8PE) (this seeds a great radio station)
-- [Electronica (smooth music to work, study and get inspired)](http://open.spotify.com/user/luckyshot/playlist/7gYXd3HbmhN3SUCahqKuTj) - also seeds a great radio station
+- Andy Wilkinson's [MOTHERFUCKING EPIC ![Spotify](img/spotify.png)](http://open.spotify.com/user/1231095985/playlist/4OtarRqf43JIRFAosBw8PE) (this seeds a great radio station)
+- [Electronica (smooth music to work, study and get inspired) ![Spotify](img/spotify.png)](http://open.spotify.com/user/luckyshot/playlist/7gYXd3HbmhN3SUCahqKuTj) - also seeds a great radio station
 
 ## Honourable Mentions
 
-- Jon Gold's [Psych Mix.](http://open.spotify.com/user/zurich/playlist/59O4pP7lGTiCSJKGc2qu31)
+- Jon Gold's [Psych Mix. ![Spotify](img/spotify.png)](http://open.spotify.com/user/zurich/playlist/59O4pP7lGTiCSJKGc2qu31)

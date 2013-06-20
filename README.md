@@ -14,6 +14,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 - Whiteheart. [![Soundcloud](img/soundcloud.png)](https://soundcloud.com/whit3h34rt)
 - Anamanaguchi [![Spotify](img/spotify.png)](http://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/anamanaguchi)
 - Parov Stelar [![Spotify](img/spotify.png)](https://play.spotify.com/artist/65EXuYHVoehCKqp0kOS6px)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/parov_stelar)
+
 ## Genres
 
 - Electro Swing
@@ -35,4 +36,6 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 
 ## Honourable Mentions
 
+- [Focus@Will](https://www.focusatwill.com/)
+- [Coffitivity](http://coffitivity.com/)
 - Jon Gold's [Psych Mix. ![Spotify](img/spotify.png)](http://open.spotify.com/user/zurich/playlist/59O4pP7lGTiCSJKGc2qu31)

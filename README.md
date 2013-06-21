@@ -15,6 +15,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 - Anamanaguchi [![Spotify](img/spotify.png)](http://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/anamanaguchi)
 - Parov Stelar [![Spotify](img/spotify.png)](https://play.spotify.com/artist/65EXuYHVoehCKqp0kOS6px)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/parov_stelar)
 - RAC [![Soundcloud](img/soundcloud.png)](https://soundcloud.com/rac)
+- Goldroom [![Spotify](img/spotify.png)](http://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/goldroom)
 
 ## Genres
 

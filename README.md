@@ -16,6 +16,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 - Parov Stelar [![Spotify](img/spotify.png)](https://play.spotify.com/artist/65EXuYHVoehCKqp0kOS6px)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/parov_stelar)
 - RAC [![Soundcloud](img/soundcloud.png)](https://soundcloud.com/rac)
 - Goldroom [![Spotify](img/spotify.png)](http://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/goldroom)
+- Pretty Lights [![Spotify](img/spotify.png)](http://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/prettylights)
 
 ## Genres
 
@@ -30,7 +31,6 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 ## Notable Tracks
 
 - 1988 - Original Mix [![Spotify](img/spotify.png)](http://open.spotify.com/track/68YRdMv167zby0ceobW8em)
-- Pretty Lights - Color of My Soul [![Spotify](img/spotify.png)](http://open.spotify.com/track/3lzPR5fDPRkOPj63pS6mRC)
 
 ## Spotify Lists
 

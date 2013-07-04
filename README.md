@@ -30,6 +30,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 ## Notable Tracks
 
 - 1988 - Original Mix [![Spotify](img/spotify.png)](http://open.spotify.com/track/68YRdMv167zby0ceobW8em)
+- Pretty Lights - Color of My Soul [![Spotify](img/spotify.png)](http://open.spotify.com/track/3lzPR5fDPRkOPj63pS6mRC)
 
 ## Spotify Lists
 

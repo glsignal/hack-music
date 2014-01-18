@@ -27,6 +27,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 
 - Tron: Legacy [![Spotify](img/spotify.png)](http://open.spotify.com/album/6RYNPiOPrLCc7BfbyhCDzx)
 - The Cat Empire - Live On Earth [![Spotify](img/spotify.png)](http://open.spotify.com/album/4aRKQGfYxfJQytCNjvFSUi)
+- Love Automatic - Organ Donor [![Spotify](img/spotify.png)](http://open.spotify.com/album/6bpqXjkX3CHXgUT9ApArCG) [![Soundcloud](img/soundcloud.png)](https://soundcloud.com/love-automatic/sets/love-automatic-organ-donor)
 
 ## Notable Tracks
 

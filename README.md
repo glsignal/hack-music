@@ -17,7 +17,7 @@ PLEASE Fork, change, add, remove. This will only get better with more contributi
 - RAC [![Soundcloud](img/soundcloud.png)](https://soundcloud.com/rac)
 - Goldroom [![Spotify](img/spotify.png)](http://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/goldroom)
 - Pretty Lights [![Spotify](img/spotify.png)](http://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q)[![Soundcloud](img/soundcloud.png)](https://soundcloud.com/prettylights)
-- 65daysofstatic [![Spotify](img/spotify)](http://open.spotify.com/track/70SIi9VuCyTbjo1LjmEpSJ) (especially Debutante and Tiger Girl)
+- 65daysofstatic [![Spotify](img/spotify.png)](http://open.spotify.com/track/70SIi9VuCyTbjo1LjmEpSJ) (especially Debutante and Tiger Girl)
 
 ## Genres
 
